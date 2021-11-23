@@ -21,5 +21,5 @@ I'm an Azure Application Innovation Cloud Solution Architect at Microsoft based 
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=swagger&logoColor=white)
 
 #### I connect at
-![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)
+[![Github](https://img.shields.io/badge/-Github-181717?style=flat-square&logo=Github&logoColor=white)](https://github.com/mitulashah)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitulashah/)
