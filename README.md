@@ -1,6 +1,6 @@
 ## Hi, I'm Mitul 👋
 
-I'm an Azure Application Innovation Cloud Solution Architect at Microsoft based in Houston, Texas.
+I'm an Azure App Innovation Cloud Solution Architect at Microsoft based in Houston, Texas.
 
 #### I work on
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft+Azure&logoColor=white)
