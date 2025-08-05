@@ -1,6 +1,6 @@
 ## Hi, I'm Mitul 👋
 
-I'm an Azure App Innovation Technical Specialist at Microsoft based in Houston, Texas.
+I'm an Azure Apps & AI Solution Engineer at Microsoft based in Houston, Texas.
 
 #### I work on
 ![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0089D6?style=flat-square&logo=Microsoft+Azure&logoColor=white)
